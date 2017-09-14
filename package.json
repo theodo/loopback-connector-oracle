@@ -19,7 +19,7 @@
     "posttest": "npm run lint"
   },
   "config": {
-    "oracleUrl": ".",
+    "oracleUrl": "../loopback-connector-oracle",
     "oracleVersion": "2.1.0",
     "driverModule": "oracledb@^1.13.0"
   },
